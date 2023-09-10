@@ -1,0 +1,36 @@
+.sobre_container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4em;
+}
+
+.sobre_container h1{
+    font-size: 2.5em;
+    color: white;
+    margin-bottom: .5em;
+}
+
+.sobre_container h1 span{
+    color: #ffdf4e;
+    padding: 0 .2em;
+}
+
+.sobre_container p{
+    margin-bottom: 1.5em;
+    color: #ffdf4e;
+}
+
+.sobre_container a{
+    color:white;
+    margin-bottom: 2em;
+}
+
+.sobre_container img{
+    width: 350px;
+    margin: 2em 0;
+    border-radius: 50px;
+
+}

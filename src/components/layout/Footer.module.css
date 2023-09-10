@@ -1,0 +1,50 @@
+.footer{
+    background-color: transparent;
+    color: white;
+    padding: 3em;
+    text-align: center;
+    border-top: 1px solid #ffdf4e;
+}
+
+.social_list{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.social_list li{
+    margin: 0 1em;
+}
+.social_list li:hover{
+    color: #ffdf4e;
+}
+
+.social_list svg{
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+.copy_rigth{
+    font-size: 10px;
+    text-align: right;
+    margin-top: 1em;
+}
+
+.copy_rigth span{
+    font-weight: bold;
+    color: white;
+}
+
+.item{
+    margin-right: 1em;
+}
+
+.item a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.item a:hover{
+    color:#ffdf4e;
+}
