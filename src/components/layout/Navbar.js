@@ -7,16 +7,16 @@ function Navbar(){
     return(
         <nav className={styles.navbar}>
         <Container>
-            <Link to='/PersonalGustavo/'><img src={logo} alt="Personal"></img></Link>
+            <Link to='/PersonalGustavo/home'><img src={logo} alt="Personal"></img></Link>
            <ul className={styles.list}>
             <li className={styles.item}>
-                <Link to='/PersonalGustavo/'>Home</Link>
+                <Link to='/PersonalGustavo/home'>Home</Link>
             </li>
             <li className={styles.item}>
-                <Link to ='/contact'>Contatos</Link>
+                <Link to ='/PersonalGustavo/contact'>Contatos</Link>
             </li>
             <li className={styles.item}>
-                <Link to='/sobre'>Sobre</Link>
+                <Link to='/PersonalGustavo/sobre'>Sobre</Link>
             </li>
            </ul>
         </Container>
