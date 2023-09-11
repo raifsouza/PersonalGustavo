@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/PersonalGustavo/static/css/main.fe06da65.css",
+    "main.js": "/PersonalGustavo/static/js/main.6871a190.js",
+    "static/media/5.jpg": "/PersonalGustavo/static/media/5.a73212cdf3690a3c8515.jpg",
+    "static/media/6.jpg": "/PersonalGustavo/static/media/6.9b37012301bdf40c3416.jpg",
+    "static/media/13.jpg": "/PersonalGustavo/static/media/13.21a1bf2b205822edfcd0.jpg",
+    "static/media/9.jpg": "/PersonalGustavo/static/media/9.926414d9b140cb124b1b.jpg",
+    "static/media/1.jpg": "/PersonalGustavo/static/media/1.f6919baa147a2f5c9aa5.jpg",
+    "static/media/2.jpg": "/PersonalGustavo/static/media/2.603fc0f84cb1871b74b5.jpg",
+    "static/media/personal.jpg": "/PersonalGustavo/static/media/personal.a82206f2d3655b6758b6.jpg",
+    "static/media/Logo.png": "/PersonalGustavo/static/media/Logo.3db7bd03b435c0050c99.png",
+    "index.html": "/PersonalGustavo/index.html",
+    "main.fe06da65.css.map": "/PersonalGustavo/static/css/main.fe06da65.css.map",
+    "main.6871a190.js.map": "/PersonalGustavo/static/js/main.6871a190.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe06da65.css",
+    "static/js/main.6871a190.js"
+  ]
+}
