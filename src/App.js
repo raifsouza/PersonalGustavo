@@ -18,6 +18,7 @@ function App() {
       <Route path="/PersonalGustavo/sobre" element={<Sobre />}> </Route>
       </Routes>
     </Container>
+    <Home/>
         <Footer/>
    </Router>
   );
